@@ -1,7 +1,7 @@
-# HtmlCompat
+  HtmlCompat
 Compaibility library for Android's Html class.
 
-## DEPRECATED
+*# DEPRECATED
 
 Google has introduced [the official HtmlCompat library as part of AndroidX](https://developer.android.com/reference/androidx/core/text/HtmlCompat). This library will no longer be updated or maintained; please use the official library.
 
@@ -21,7 +21,7 @@ Download [the latest AAR][download] or grab from Bintray using Gradle:
 
 [![Download](https://api.bintray.com/packages/pixplicity/android/htmlcompat/images/download.svg)](https://bintray.com/pixplicity/android/htmlcompat/_latestVersion)
 
-**Important:** Specify the latest version from Bintray as `[VERSION_HERE]`.
+ *Important:** Specify the latest version from Bintray as `[VERSION_HERE]`.
 
 [download]: https://bintray.com/pixplicity/android/htmlcompat
 
@@ -105,3 +105,4 @@ This library has become obsolete, in favor of [the official HtmlCompat library a
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
+ 
